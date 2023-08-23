@@ -12,7 +12,7 @@ header {
       rgba(97, 47, 18, 0.66),
       rgba(97, 47, 18, 0.66)
     ),
-    url("./image/homebackground.jpg");
+    url("../image/homebackground.jpg");
   background-size: cover;
   background-position: center;
 }
